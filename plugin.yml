@@ -1,0 +1,8 @@
+name: QuikSpawn
+main: Zedstar16\QuikSpawn\Main
+version: 1.0
+api: 3.0.0
+load: POSTWORLD
+author: Zedstar16
+description: Remove death screen when a player dies
+website: https://github.com/zedstar16\quikspawn
